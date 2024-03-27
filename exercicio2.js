@@ -1,3 +1,5 @@
+/* Exercício simples de cálculo de média.
+*/
 let num1 = 34;
 let num2 = 87;
 let num3 = 94;

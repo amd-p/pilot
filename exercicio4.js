@@ -1,3 +1,5 @@
+/* Exercício simples de soma.
+*/
 let num1 = 56;
 let num2 = 34;
 
